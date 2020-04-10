@@ -1,6 +1,5 @@
 # cannon_sim
 Shooting cannonballs!
-<<<<<<< HEAD
 
 ## Installation
 I grabbed the latest jsbsim wheel from the [jsbsim github](https://github.com/JSBSim-Team/jsbsim).  Grab the latest
