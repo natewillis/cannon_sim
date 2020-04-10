@@ -25,4 +25,3 @@ Make sure to leave that terminal alone as it will be running the webserver you n
 
 In the main subroutine of BallMaker.py there is a user_parameters dictionary with launch and target lat/lons that you 
 can change.  The altitudes currently aren't used.  The just run the main sub (in pycharm just hit the green triangle)
-=======
