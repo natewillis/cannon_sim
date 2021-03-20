@@ -1,6 +1,6 @@
 cycler==0.10.0
 czml==0.3.3
-Jinja2==2.11.1
+Jinja2==2.11.3
 JSBSim==1.1.0.dev1
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
